@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    color: #000000;
+    font-family: UberMoveText, sans-serif;
+ }
+
+
+
+.root-banner{
+    background-image: url("https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/9b21aa66b4922ae2.png");
+    height: 800px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: aqua;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    position: relative;
+    /* background-color: blueviolet; */
+   
+}
+.left-side{
+    padding: 30px;
+    width: 50%;
+    /* background-color: aquamarine; */
+    float: left;
+   
+}
+.faicon{
+   margin: 11px;
+}
+.uber-logo{
+    margin-left: 22px;
+}
+.right-side{
+    float: left;
+    width: 50%;
+    /* background-color: brown; */
+    padding: 25px;
+}
+.button{
+    border-radius: 26px;
+    width: 105px;
+    height: 50px;
+    cursor: pointer;
+    float: right;
+    font-size: 16px;
+    font-family: UberMoveText, sans-serif;
+    border: none;
+    margin-left: 18px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.button-login{
+color: #000000;
+}
+.button-signup{
+    color: white;
+    background: #000000;
+}
+.section{
+
+}
+.h1-tag{
+font-size: 52px;
+font-weight: 700;
+font-family:  UberMove, sans-serif;
+line-height: 64px;
+}
+.location-icon-div{
+float: left;
+}
+.location-icon{
+    background: white;
+    height: 60px;
+    width: 58px;
+    padding: 6px;
+}
+
+.location-input{
+    float: left;
+    
+}
+.input-field{
+    height: 60px;
+    width: 600px;
+    border: none;
+}
+.find-food{
+    height: 60px;
+    width: 100px;
+    margin-left: 10px;
+    background: black;
+    color: white;
+    cursor: pointer;
+}
+
+.top-section{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.mid-section{
+    margin-top: 45px;
+    margin-left: 50px;
+}
+.bottom-section{
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+

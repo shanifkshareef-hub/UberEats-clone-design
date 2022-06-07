@@ -1,0 +1,13 @@
+bg-color:#F2CA2F
+bg-imgUrl:"https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/9b21aa66b4922ae2.png"
+header-img(ubereats-logo):"https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/97c43f8974e6c876.svg"
+
+
+font:"    color: #000000;
+    font-family: UberMoveText, sans-serif;
+"
+
+feed your wmployees:"	https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/dd109bb1f7572eed.png"
+your restaurant delivered:"	https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/8148ef38ec4096b7.png"
+deliver with uber eats:"https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/7a9d4feba62d2c0b.png"
+
